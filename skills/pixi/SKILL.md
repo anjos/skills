@@ -46,7 +46,7 @@ pixi shell -e <env>             # specific environment shell
 **Global tools:**
 ```bash
 pixi global install <tool>
-pixi global upgrade-all
+pixi global update
 pixi global list
 pixi global remove <tool>
 ```
