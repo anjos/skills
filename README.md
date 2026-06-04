@@ -8,8 +8,8 @@ A personal collection of agent skills for Claude Code and Codex, maintained alon
 
 | Skill | Description |
 |---|---|
-| [add-skill](skills/add-skill/SKILL.md) | Find and install agent skills into a chezmoi dotfiles repo |
-| [pixi](skills/pixi/SKILL.md) | Package and environment management with pixi |
+| [medai-python-package](skills/medai-python-package/SKILL.md) | Create and manage Python packages for the Idiap medai group using copier |
+| [pixi](skills/pixi/SKILL.md) | Comprehensive package and environment management using pixi |
 
 ## Install all skills
 
@@ -20,7 +20,7 @@ npx skills add anjos/skills -g --agent codex
 ## Install a specific skill
 
 ```bash
-npx skills add anjos/skills@add-skill -g --agent codex
+npx skills add anjos/skills@pixi -g --agent codex
 ```
 
 ## List available skills
