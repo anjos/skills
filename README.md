@@ -8,6 +8,10 @@ A personal collection of agent skills for Claude Code and Codex, maintained alon
 
 | Skill | Description |
 |---|---|
+| [medai-latex-document](skills/medai-latex-document/SKILL.md) | Create and maintain LaTeX documents, papers and theses for the Idiap medai group |
+| [medai-latex-letter](skills/medai-latex-letter/SKILL.md) | Create and maintain LaTeX letters with the official Idiap letterhead |
+| [medai-latex-poster](skills/medai-latex-poster/SKILL.md) | Create and maintain LaTeX/tikzposter posters for the Idiap medai group |
+| [medai-latex-slide-deck](skills/medai-latex-slide-deck/SKILL.md) | Create and maintain reusable LaTeX Beamer slide decks for the Idiap medai group |
 | [medai-python-package](skills/medai-python-package/SKILL.md) | Create and manage Python packages for the Idiap medai group using copier |
 | [pixi](skills/pixi/SKILL.md) | Comprehensive package and environment management using pixi |
 
