@@ -8,6 +8,7 @@ A personal collection of agent skills for Claude Code and Codex, maintained alon
 
 | Skill | Description |
 |---|---|
+| [idiap-renku](skills/idiap-renku/SKILL.md) | Create, maintain and drive projects, launchers, data and jobs on Idiap's Renku 2.0 instance |
 | [medai-latex-document](skills/medai-latex-document/SKILL.md) | Create and maintain LaTeX documents, papers and theses for the Idiap medai group |
 | [medai-latex-letter](skills/medai-latex-letter/SKILL.md) | Create and maintain LaTeX letters with the official Idiap letterhead |
 | [medai-latex-poster](skills/medai-latex-poster/SKILL.md) | Create and maintain LaTeX/tikzposter posters for the Idiap medai group |
